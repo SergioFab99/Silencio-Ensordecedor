@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Silencio Ensordecedor.sln"
+    "dotnet.defaultSolution": "Silencio-Ensordecedor.sln"
 }

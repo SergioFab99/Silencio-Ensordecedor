@@ -5,9 +5,23 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/OutdoorsScene.unity
+    guid: 8124e5870f4fd4c779e7a5f994e84ad1
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenu.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Transicion1.unity
+    guid: 2618e6783514886408a63a67582b505c
+  - enabled: 1
+    path: Assets/Scenes/Transicion2.unity
+    guid: f4426b5f63b02ae46bc92198d2213994
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: 652b1c66d2410b94ea88603071892b60
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 5e81efc2737ca874ca491feb2cca2c00, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: b6cd7273df41b814a836a0f8995cf9bc, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 6c20cb28c1ad3fb43b91f1aef6242ccd, type: 3}
   m_UseUCBPForAssetBundles: 0
